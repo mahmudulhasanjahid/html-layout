@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: rgb(236, 236, 180);
+}
+.card1{
+width: 250px;
+height: 380px;
+background-color: #f7e0e0;
+/* margin: 20px auto; */
+text-align: center;
+margin:10px auto;
+border-radius: 10px;
+/* margin-left: auto; */
+}
+img{
+    border-radius: 10px;
+    margin-top: 10px;
+}
+h3{
+    font-family: 'Work Sans', sans-serif;
+}
+h5{font-family: 'Work Sans', sans-serif;
+    margin-bottom: 10px;
+}
+p{font-family: 'Roboto', sans-serif;
+    margin-bottom: 10px;
+}
+button{
+    margin-top: 10px;
+    width: 250px;
+    height:50px;
+    background-color: aquamarine; 
+    border: none;
+    color: rgb(2, 2, 2);
+    border-radius: 10px;
+    
+}
+
+.img{
+width: 25;
+height: 40;
+}
+
+span{
+    color: rgba(228, 197, 22, 0.959);
+}
